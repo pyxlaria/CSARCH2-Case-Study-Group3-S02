@@ -2,11 +2,7 @@
 Group Title: The Digital Arms Race: The Evolution of Cyberassault
 
 Group Member Roster:
-Ethan Yuric Lim
-Mynt Tan
-Ulrich Maeko Gonzales
-Miguel Diego
-Ezekiel Tiangson
+Ethan Yuric Lim, Mynt Tan, Ulrich Maeko Gonzales, Miguel Diego Loste, Ezekiel Tiangson
 
 Group’s Topic Theme:
 The group’s exhibit theme centers around the evolution of cyberassault. The exhibit will focus on the slow evolution of cyberassault and cybersecurity throughout the years. Rather than focus on the software aspect of each cyberassault (the specifics on how they breached security), the group plans to focus more on the impacts each cyberassault had on society and cybersecurity as a whole. 
